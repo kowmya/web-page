@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SRINIVAS</title>
+     <img src="family.jpeg" height="500" width="500">
+</head>
+<body>
+    <ol>
+      <li> Srinivas</li>
+       <li> Ramu </li>
+       <li>Rupa</li>
+       <li>Vinnu</li>
+       <li>Ammulu</li>
+    </ol>
+    <ul>
+      <li>Ammulu</li>
+      <li>Vinnu</li>
+    </ul>
+    <dl>
+      <dt>KAMATALA'S Family</dt>
+      <dd>srinivas as 3 daughters they both are strong</dd>
+    </dl>
+
+</body>
+</html>
