@@ -1,0 +1,25 @@
+body{
+    background: linear linear-gradient(to right,pink,blue);
+    font-family: arial;
+    text-align:center;
+}
+.box{
+    background: linear-gradient(to right, orange,yellow);
+    padding:50px;
+    margin:100px;
+    border-radius:15px;
+}
+h1{
+    color:white;
+
+}
+p{
+    color:black;
+}
+button{
+    background:blue;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+}
